@@ -27,6 +27,21 @@ namespace hoangdung.Core.Entity.Repository
             await _entity.AddRangeAsync(entities);
         }
 
+        public async Task BulkAddRange(IEnumerable<T> entities)
+        {
+            await _entity.BulkInsertAsync(entities);
+        }
+
+        public async Task BulkRemoveRange(IEnumerable<T> entities)
+        {
+            await _entity.BulkDeleteAsync(entities);
+        }
+
+        public async Task BulkUpdateRange(IEnumerable<T> entities)
+        {
+            await _entity.BulkUpdateAsync(entities);
+        }
+
         public async Task Dispose()
         {
             await _context.DisposeAsync();

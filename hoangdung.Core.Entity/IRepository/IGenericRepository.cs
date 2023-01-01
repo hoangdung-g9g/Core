@@ -14,6 +14,9 @@ namespace hoangdung.Core.Entity.IRepository
         void UpdateRange(IEnumerable<T> entities);
         void Remove(T entity);
         void RemoveRange(IEnumerable<T> entities);
+        Task BulkAddRange(IEnumerable<T> entities);
+        Task BulkUpdateRange(IEnumerable<T> entities);
+        Task BulkRemoveRange(IEnumerable<T> entities);
         Task SaveChange();
         Task Dispose();
     }
