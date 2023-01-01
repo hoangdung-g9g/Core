@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tiend\\OneDrive\\Documents\\hoangdung\\core\\hoangdung.Core.Entity\\hoangdung.Core.Entity.csproj": {}
+    "C:\\Users\\tiend\\OneDrive\\Documents\\hoangdung.Project\\Core\\hoangdung.Core.Entity\\hoangdung.Core.Entity.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tiend\\OneDrive\\Documents\\hoangdung\\core\\hoangdung.Core.Entity\\hoangdung.Core.Entity.csproj": {
+    "C:\\Users\\tiend\\OneDrive\\Documents\\hoangdung.Project\\Core\\hoangdung.Core.Entity\\hoangdung.Core.Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tiend\\OneDrive\\Documents\\hoangdung\\core\\hoangdung.Core.Entity\\hoangdung.Core.Entity.csproj",
+        "projectUniqueName": "C:\\Users\\tiend\\OneDrive\\Documents\\hoangdung.Project\\Core\\hoangdung.Core.Entity\\hoangdung.Core.Entity.csproj",
         "projectName": "hoangdung.Core.Entity",
-        "projectPath": "C:\\Users\\tiend\\OneDrive\\Documents\\hoangdung\\core\\hoangdung.Core.Entity\\hoangdung.Core.Entity.csproj",
+        "projectPath": "C:\\Users\\tiend\\OneDrive\\Documents\\hoangdung.Project\\Core\\hoangdung.Core.Entity\\hoangdung.Core.Entity.csproj",
         "packagesPath": "C:\\Users\\tiend\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tiend\\OneDrive\\Documents\\hoangdung\\core\\hoangdung.Core.Entity\\obj\\",
+        "outputPath": "C:\\Users\\tiend\\OneDrive\\Documents\\hoangdung.Project\\Core\\hoangdung.Core.Entity\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tiend\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -37,6 +37,16 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
