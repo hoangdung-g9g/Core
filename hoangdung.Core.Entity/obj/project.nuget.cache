@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DbmFsKWEYxn2A276VBk+2hBwwM41XROLw2+j7QwMUfHBQwvcIH2I7mxSoMB/CxebUlYnUw2jL4mXyqRUzlIOOQ==",
+  "dgSpecHash": "ftbWlTbaI4ojv8z2oUvmfW4nOALdck2pD4ICNBty9mfgZk4A47LLJSN0zBcBUHVRXDiyXnNUpZRVDP23B8z6BQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\tiend\\OneDrive\\Documents\\hoangdung.Project\\Core\\hoangdung.Core.Entity\\hoangdung.Core.Entity.csproj",
+  "projectFilePath": "c:\\Users\\tiend\\OneDrive\\Documents\\hoangdung.Project\\Core\\hoangdung.Core.Entity\\hoangdung.Core.Entity.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tiend\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\tiend\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

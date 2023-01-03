@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tiend\\OneDrive\\Documents\\hoangdung.Project\\Core\\hoangdung.Core.Entity\\hoangdung.Core.Entity.csproj": {}
+    "c:\\Users\\tiend\\OneDrive\\Documents\\hoangdung.Project\\Core\\hoangdung.Core.Entity\\hoangdung.Core.Entity.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tiend\\OneDrive\\Documents\\hoangdung.Project\\Core\\hoangdung.Core.Entity\\hoangdung.Core.Entity.csproj": {
+    "c:\\Users\\tiend\\OneDrive\\Documents\\hoangdung.Project\\Core\\hoangdung.Core.Entity\\hoangdung.Core.Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tiend\\OneDrive\\Documents\\hoangdung.Project\\Core\\hoangdung.Core.Entity\\hoangdung.Core.Entity.csproj",
+        "projectUniqueName": "c:\\Users\\tiend\\OneDrive\\Documents\\hoangdung.Project\\Core\\hoangdung.Core.Entity\\hoangdung.Core.Entity.csproj",
         "projectName": "hoangdung.Core.Entity",
-        "projectPath": "C:\\Users\\tiend\\OneDrive\\Documents\\hoangdung.Project\\Core\\hoangdung.Core.Entity\\hoangdung.Core.Entity.csproj",
+        "projectPath": "c:\\Users\\tiend\\OneDrive\\Documents\\hoangdung.Project\\Core\\hoangdung.Core.Entity\\hoangdung.Core.Entity.csproj",
         "packagesPath": "C:\\Users\\tiend\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tiend\\OneDrive\\Documents\\hoangdung.Project\\Core\\hoangdung.Core.Entity\\obj\\",
+        "outputPath": "c:\\Users\\tiend\\OneDrive\\Documents\\hoangdung.Project\\Core\\hoangdung.Core.Entity\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tiend\\AppData\\Roaming\\NuGet\\NuGet.Config"
